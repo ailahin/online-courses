@@ -1,0 +1,11 @@
+.login-form{
+    width: 800px;
+    margin-top: 10px;
+    background-color: beige;
+    padding: 30px;
+   
+}
+.text{
+    color:black !important;
+    font-size: 3rem;
+}

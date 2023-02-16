@@ -1,0 +1,14 @@
+.home-bg-color{
+    background-color:rgb(242, 247, 247);
+}
+.Home-container{
+    margin-left:30px;
+    margin-right:30px;
+    
+}
+
+.home-list{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+}

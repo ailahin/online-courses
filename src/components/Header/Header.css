@@ -1,0 +1,88 @@
+.header {
+    padding: 30px
+}
+
+.text-color a {
+    color: black;
+    font-size: 1.5rem;
+}
+
+.feature-text {
+    color: white !important;
+    margin-top: 2px;
+}
+
+.btn-log-sign {
+    margin-left: 200px !important;
+
+
+}
+
+.btn-sign {
+    margin-right: 20px;
+    background-color: rgb(228, 154, 6);
+    color: black;
+    border-color: aliceblue;
+
+
+}
+
+.form {
+    margin-top: 8px;
+    margin-left: 100px;
+
+}
+
+.form input {
+    width: 250px;
+}
+
+.btn-log {
+    margin-right: 20px;
+    background-color: rgb(228, 154, 6);
+    color: black;
+    border-color: aliceblue;
+
+}
+
+.courses-feature {
+    margin-top: 200px;
+
+}
+
+.container {}
+
+.header-bg {
+    background-color: black;
+    height: 1100px;
+
+}
+
+.card-size {
+    width: 18rem;
+    padding-bottom: 20px;
+
+}
+
+.feature-text {
+    padding-top: 50px;
+    color: rgb(234, 235, 241) !important;
+
+}
+
+.feature-text-admission {
+    color: rgb(245, 245, 238);
+
+}
+
+.img-card-size {
+    width: 60rem;
+    height: 500px;
+    padding: 10px;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.carousel {
+    border: 10px;
+}
