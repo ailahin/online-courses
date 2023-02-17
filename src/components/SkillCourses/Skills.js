@@ -71,7 +71,7 @@ const Skills = () => {
         <div className='description-text'> <p className="card-text "> <span className='description' > Description: <span/> </span> {course.description} </p></div>
         <div className='price-list'> <p className="card-text"><span className='price'> Price:</span> £{course.price}</p> </div>
         <div> 
-          <Link to={""}> <button className=' single-course-btn  btn btn-outline-info'> See Details</button></Link>
+          <Link to="/home/:courseId"> <button className=' single-course-btn  btn btn-outline-info'> See Details</button></Link>
           </div>
       <div>
         
