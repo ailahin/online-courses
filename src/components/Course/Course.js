@@ -2,8 +2,11 @@ import React from 'react';
 import './Course.css'
 import { Link } from 'react-router-dom';
 
+
 const Course = (props) => {
-    const {title, price, description, img}= props.course
+    const {id,title, price, description, img}= props.course;
+
+const  url= `/home/${id}`  ;   
     
     return (
         // <div>
@@ -82,7 +85,9 @@ const Course = (props) => {
         <h2 className="  card-title title-name">{title}</h2>
         <div className='description-text'> <p className="card-text "> <span className='description' > Description: <span/> </span> {description} </p></div>
         <div className='price-list'> <p className="card-text"><span className='price'> Price:</span> £{price}</p> </div>
-        <div> <button className=' single-course-btn  btn btn-outline-info'> See Details</button></div>
+        <div> 
+          <Link to={url}> <button className=' single-course-btn  btn btn-outline-info'> See Details</button></Link>
+          </div>
       <div>
         
       </div>

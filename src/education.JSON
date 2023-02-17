@@ -1,0 +1,96 @@
+
+
+[ {
+"id":"001" ,
+"title": "Communication" ,
+"price":"15" ,
+"description" :"Students will explore the fundamentals of communication—such as perception, verbal and nonverbal messages, and listening—in our daily contexts, including relationships, groups, organizations, cultures, media, technology, and public settings" ,
+"instractor": "Tahsan Khan",
+"img":"https://lirp.cdn-website.com/3fcc5141/dms3rep/multi/opt/Blog+main+pic+%281%29-1920w.png"
+},
+
+{ "id": "002",
+"title" :" Facebook Marketing" ,
+"price": "15",
+"description":"Facebook Marketing Course: How to Develop Effective Strategies for Organic Content and Paid Ads. In this course, you'll discover actionable and impactful ways to use this popular social network to engage with customers and attract new audiences to your products and services.",
+"instractor": "Ayman Sadiq, Saman Sakib",
+"img":"https://cdn.wedevs.com/uploads/2019/08/Effective-Facebook-Marketing-Strategies-for-Beginners.png"
+},
+{
+"id":"003",
+"title": "Web design",
+"price": "25",
+"description": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs.",
+"img":"https://www.globalmediainsight.com/asset/images/website-development.jpg"
+},
+
+{
+    "id":"004",
+    "title":"Project Management" ,
+    "price":"20",
+    "description":"A degree in project management will provide you with the skills you will need to excel in a variety of different types of jobs and careers. Analyzing systems, assessing cost-benefit analyses, and problem-solving are just some of the processes you'll put to use with a project management degree.",
+    "img":"https://lapaas.b-cdn.net/wp-content/uploads/2021/03/A-Step-By-Step-Guide-To-Learn-About-Project-Management-Top-15-Skills-You-Need-To-Master.-1024x576.jpg"
+
+},
+{
+    "id":"005",
+    "title": "Spoken English",
+    "price": "10",
+    "description": "Speaking English allows you to actually broaden your world, from job opportunities to the ability to relate to people from every country. Knowing the language makes it much more interesting every trip.",
+    "img":"https://preply.com/wp-content/uploads/2020/11/Group-28779.png"
+    
+
+},
+{
+    "id":"006",
+    "title": "French For Beginner",
+    "price": "10",
+    "description": "French is the second most useful language in the world for business. Studying French makes you smarter. French is one of the top ten majors most likely to lead to less unemployment and higher earnings. Studying in a French-speaking region makes you more creative.",
+    "img":"https://scholarace.com/wp-content/uploads/2019/09/learn-french-abroad.jpg"
+
+},
+{
+    "id":"007",
+    "title": "Japanese For Beginner",
+    "price": "10",
+    "description": "FLearning Japanese will help you to appreciate your own culture as well as your own language because it improves your communication and cognitive skills. Accessing a culture that is very different from yours will heighten your awareness that cultures and languages vary.",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1492590/header.jpg"
+
+},
+
+{
+    "id":"008",
+    "title": "Arabic For Beginner",
+    "price": "10",
+    "description": "Being able to speak Arabic will give you the edge over your competition. Knowing Arabic opens the door to many other languages in the region. For example, approximately 50% of the vocabulary of Persian (Farsi) is made up of Arabic words. Similar considerations apply to learning Urdu or Turkish.",
+    "img": "https://thumbs.dreamstime.com/z/learn-arabic-language-human-hand-writing-text-blackboard-110761892.jpg"
+},
+{
+    "id":"009",
+    "title": "Robotics for beginner",
+    "price": "15",
+    "description": "Aside from developing crucial problem-solving skills, robotics can also be an excellent activity for stimulating creativity and a curious mind. In a similar vein to LEGO and Meccano, robotics gives your child a toolkit and challenges them to build something new",
+    "img":"https://onlineteachersuk.com/files/2016/07/teaserbox_2452242896.jpg"
+
+},
+
+{
+    "id":"010",
+    "title": "Crafting for Kids",
+    "price": "15",
+    "description": "Art and craft activities give kids a sense of achievement and allow them to take pride in their work which builds confidence. Making art is a great, safe way to discover that it's okay to make mistakes and that getting things 'wrong' can lead you to a whole new idea.",
+    "img": "https://media.4rgos.it/i/Argos/1820-m0014-m007-m050-asym-m008-m022-craftingforkids-as104732052?maxW=768&qlt=75&fmt.jpeg.interlaced=true"
+},
+{
+    "id":"011",
+    "title": "Programming for kids",
+    "price": "15",
+    "description": "Kids as young as 7 years of age can start coding and learning programming basics. In fact, coding for kids has gained popularity rapidly in recent years as technology becomes increasingly part of everyday life.",
+    "img": "https://uploads-ssl.webflow.com/611b98a31c89b693a3b741b4/6125271b8e005e1ea883a206_classmates-working-together%201%20(1).png"
+}
+
+
+
+]
+
+

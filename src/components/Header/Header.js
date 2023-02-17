@@ -99,7 +99,7 @@ const Header = () => {
                 <div className="card-body  ">
                   <h5 className="card-title">Skill Courses</h5>
                   <p className="card-text"> Data analysis, Software development,Web development, Project management </p>
-                  <a href=" " className="btn btn-primary">See Details</a>
+                  <Link to="/home/skills-courses" href=" " className="btn btn-primary">See Details</Link>
                 </div>
               </div>
 
@@ -109,7 +109,7 @@ const Header = () => {
                 <div className="card-body  ">
                   <h5 className="card-title"> Language Courses</h5>
                   <p className="card-text">Spoken English, Bangla Crush Course, French for beginner, Japanese Spoken Coursh, Arabic Language</p>
-                  <a href=" " className="btn btn-primary">See Details</a>
+                  <Link to='/home/languge-courses' href=" " className="btn btn-primary">See Details</Link>
                 </div>
               </div>
 
@@ -119,7 +119,7 @@ const Header = () => {
                 <div className="card-body  ">
                   <h5 className="card-title">Courses for kids</h5>
                   <p className="card-text">Robotics beginner Level, Programming for Kids Drawing, Spoken English , Crafting for Kids  </p>
-                  <a href=" " className="btn btn-primary">See Details</a>
+                  <Link to='/home/kids-courses' href=" " className="btn btn-primary">See Details</Link>
                 </div>
               </div>
 
