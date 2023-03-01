@@ -73,13 +73,13 @@ const Header = () => {
               <div id="carouselExample" className="carousel slide card mx-auto img-card-size ">
                 <div className="carousel-inner">
                   <div className="carousel-item active">
-                    <img src={img2} className="d-block w-100" alt="" />
+                    <img src={img5} className="d-block w-100" alt="" />
                   </div>
                   <div className="carousel-item">
                     <img src={img4} className="d-block w-100" alt="" />
                   </div>
                   <div className="carousel-item">
-                    <img src={img5} className="d-block w-100" alt="" />
+                    <img src={img2} className="d-block w-100" alt="" />
                   </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
