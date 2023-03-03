@@ -5,13 +5,13 @@ import Home from './components/Home/Home';
 import Sign from './components/Sign-in/Sign';
 import { Route, Routes } from 'react-router-dom';
 import Notfound from './components/Page-not-found/Notfound';
-import Login from './components/Login/Login';
 import Contact from './components/Contact/Contact';
 import Blog from './components/Blog/Blog';
 import Skills from './components/SkillCourses/Skills';
 import SingleCourse from './components/SingleCourse/SingleCourse';
 import Kidscourses from './components/KidsCourses/Kidscourses';
 import Language from './components/Language/Language';
+import Register from './components/Register/Register';
 
 
 
@@ -37,7 +37,7 @@ function App() {
         <Route path="/" element={<Header/>} />
         <Route path="/home" element={<HomePage />} />
         <Route path="/signin" element={<Sign/>} />
-        <Route path="/login" element={<Login/>} />
+        <Route path="/register" element={<Register/>} />
         <Route path="/courses" element={<Home />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
@@ -47,6 +47,10 @@ function App() {
         <Route path='/home/:courseId'  element={<SingleCourse/> }/>
         <Route exact path="*" element={<Notfound> </Notfound>} />
       </Routes>
+
+     
+
+      Register
     </div>
   );
 }

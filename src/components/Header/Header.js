@@ -48,7 +48,7 @@ const Header = () => {
               <div className="btn-log-sign  d-flex  flex-row justify-content-end">
                 <ul className='navbar-nav me-auto mb-2 mb-lg-0'>
                 <Link to="/signin"> <button className=" btn-sign btn btn-outline-success" type="submit">Sign in</button> </Link>
-                <Link to="/login">  <button className=" btn-log btn btn-outline-success" type="submit">Log in</button> </Link>
+                <Link to="/register">  <button className=" btn-log btn btn-outline-success" type="submit">Register</button> </Link>
                 </ul>
               </div>
             </div>

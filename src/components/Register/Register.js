@@ -1,13 +1,13 @@
-import './Login.css'
+import './Register.css'
 
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Login = () => {
+const Register = () => {
   return (
     <div>
 
-      <h1 className='text'> Log In Here</h1>
+      <h1 className='text'> Register Here</h1>
 
       <section>
         <nav className="  fixed-top header navbar navbar-expand-lg bg-body-tertiary text-black d-flex flex-row   ">
@@ -44,7 +44,7 @@ const Login = () => {
               <div className="btn-log-sign  d-flex  flex-row justify-content-end">
                 <ul className='navbar-nav me-auto mb-2 mb-lg-0'>
                   <Link to="/signin"> <button className=" btn-sign btn btn-outline-success" type="submit">Sign in</button> </Link>
-                  <Link to="/login">  <button className=" btn-log btn btn-outline-success" type="submit">Log in</button> </Link>
+                  <Link to="/register">  <button className=" btn-log btn btn-outline-success" type="submit">Register</button> </Link>
                 </ul>
               </div>
             </div>
@@ -121,7 +121,7 @@ const Login = () => {
             </div>
           </div>
           <div class="col-12">
-            <Link to="/*">  <button class="btn btn-primary" type="submit">log in </button></Link>
+            <Link to="/register">  <button class="btn btn-primary" type="submit">Register </button></Link>
           </div>
         </form>
 
@@ -131,4 +131,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default Register;
