@@ -121,7 +121,7 @@ const Register = () => {
             </div>
           </div>
           <div class="col-12">
-            <Link to="/register">  <button class="btn btn-primary" type="submit">Register </button></Link>
+            <Link to="/home">  <button class="btn btn-primary" type="submit">Register </button></Link>
           </div>
         </form>
 
